@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recycler view card view tofragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="disclaimer">Disclaimer:</string>
+    <string name="disclaimer_desc">Owner of this application do not have any right on the contents present in this application. All contents are collected from internet. In this app, if you have any objection about the content and thinking
+        it should not be there, if you found any information that is owned by you or any content that violates your copyrights, trademarks, intellectual property rights, please contact to us at Email divya777singh@gmail.com.</string>
+    <string name="large_text">
+        সি একটি প্রোগ্রামিং ভাষা। সি নির্মাণ করেন ডেনিস রিচি, বেল ল্যাবে ৭০এর দশকে কাজ করার সময়। ভাষাটি তৈরির প্রথম উদ্দেশ্য ছিল ইউনিক্স- অপারেটিং সিস্টেম এর কোড লেখায় এর ব্যবহার, কিন্তু অচিরেই এটি একটি বহুল ব্যবহৃত ভাষায় পরিণত হয়। সি++ ও জাভা সহ পরিবর্তীকালের অনেক প্রোগ্রামিং ভাষার উপর সি গভীর প্রভাব পড়েছে। সি এর সবচেয়ে আকর্ষণীয়
+        দিক হচ্ছে এর বহনযোগ্যতা। সি দিয়ে রচিত প্রোগ্রাম যেকোন অপাররেটিং সিস্টেমের কম্পিউটারে চালানো যায়। ৭০ এবং ৮০ দশকের দিকে সি এর জনপ্রিয়তা বাড়ার সাথে সাথে এর অনেকগুলো ভার্সন তৈরি হয়। ১৯৮৩ সালে আমেরিকান মাননিয়ন্ত্রক সংস্থা সি এর ১টি আদর্শ ভার্সন তৈরির জন্য কমিটি গঠন করে। দীর্ঘ ৬ বছর পরে ১৯৮৯ সালে সেই আদর্শ সি ভাষাটি তৈরি হয়,
+        যা আমেরিকান মাননিয়ন্ত্রক সংস্থা সি (আনসি সি (ANSI C)) নামে পরিচিত। পরবর্তিতে আন্তর্জাতিক মাননিয়ন্ত্রক সংস্থা ১৯৯০ সালে সি এর এই আদর্শ ভার্সনটি গ্রহণ করে, যা সি৯০ নামে পরিচিত। মুলত "সি৮৯" এবং "সি৯০" একই ভাষা। যুগের প্রয়োজনে আন্তর্জাতিক মাননিয়ন্ত্রক সংস্থা ১৯৯৫ সালে এই সংস্করণকে বর্ধিত করে এবং পরবর্তিতে ১৯৯৯ সালে সম্পূর্ণ নতুন
+        একটি সংস্করণ প্রকাশ করে যা সি৯৯ নামে পরিচিত। সর্বশেষ ২০১১ সালে সি প্রোগ্রামিং ল্যাঙ্গুয়েজের নবীনতম সংস্করণ সি১১ প্রকাশিত হয়।
+    </string>
+    <string name="play_store_link">https://play.google.com/store/apps/details?id=com.devs.learningcpp</string>
+    <string name="play_store_link_short">https://goo.gl/VRi1EU</string>
+    <string name="privacy_link">https://sites.google.com/view/divya-learningcpp/home</string>
+    <string name="see_more_apps_link">https://play.google.com/store/apps/developer?id=Wonder+Appz</string>
+    <string name="more_apps">market://search?q=pub:Wonder Appz&amp;hl=en</string>
+</resources>
